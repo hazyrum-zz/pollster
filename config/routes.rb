@@ -1,17 +1,7 @@
 Pollster::Application.routes.draw do
-  get "polls/index"
+  resources :polls
 
-  get "polls/new"
-
-  get "polls/create"
-
-  get "polls/update"
-
-  get "polls/edit"
-
-  get "polls/destroy"
-
-  get "polls/show"
+  root :to => 'polls/index'
 
   # The priority is based upon order of creation:
   # first created -> highest priority.
