@@ -9,3 +9,120 @@ Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-30 15:46:51 -0700
 Connecting to database specified by database.yml
 Served asset /rails.png - 304 Not Modified (5ms)
 Connecting to database specified by database.yml
+Connecting to database specified by database.yml
+
+
+Started GET "/assets/rails.png" for 127.0.0.1 at 2012-07-30 16:08:50 -0700
+Connecting to database specified by database.yml
+Served asset /rails.png - 304 Not Modified (2ms)
+
+
+Started GET "/polls/new" for 127.0.0.1 at 2012-07-30 16:08:58 -0700
+Processing by PollsController#new as HTML
+  Rendered polls/new.html.erb within layouts/application (3.1ms)
+Compiled bootstrap_and_overrides.css  (661ms)  (pid 5889)
+Compiled polls.css  (9ms)  (pid 5889)
+Compiled application.css  (713ms)  (pid 5889)
+Compiled jquery.js  (2ms)  (pid 5889)
+Compiled jquery_ujs.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-transition.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-alert.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-modal.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-dropdown.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-scrollspy.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-tab.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-tooltip.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-popover.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-button.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-collapse.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-carousel.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap/bootstrap-typeahead.js  (0ms)  (pid 5889)
+Compiled twitter/bootstrap.js  (214ms)  (pid 5889)
+Compiled bootstrap.js  (90ms)  (pid 5889)
+Compiled polls.js  (1ms)  (pid 5889)
+Compiled application.js  (398ms)  (pid 5889)
+Completed 200 OK in 1283ms (Views: 1283.0ms | ActiveRecord: 0.0ms)
+
+
+Started GET "/assets/bootstrap_and_overrides.css?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /bootstrap_and_overrides.css - 200 OK (3ms)
+
+
+Started GET "/assets/polls.css?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /polls.css - 200 OK (2ms)
+
+
+Started GET "/assets/application.css?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /application.css - 200 OK (10ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-modal.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-modal.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-alert.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-alert.js - 200 OK (6ms)
+
+
+Started GET "/assets/jquery_ujs.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /jquery_ujs.js - 200 OK (2ms)
+
+
+Started GET "/assets/jquery.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /jquery.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-transition.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-transition.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-scrollspy.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-scrollspy.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-dropdown.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-dropdown.js - 200 OK (6ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tab.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-tab.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-tooltip.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-tooltip.js - 200 OK (5ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-popover.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-popover.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-button.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-button.js - 200 OK (3ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-collapse.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-collapse.js - 200 OK (4ms)
+
+
+Started GET "/assets/bootstrap.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /bootstrap.js - 200 OK (2ms)
+
+
+Started GET "/assets/twitter/bootstrap.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap.js - 200 OK (21ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-typeahead.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-typeahead.js - 200 OK (4ms)
+
+
+Started GET "/assets/twitter/bootstrap/bootstrap-carousel.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /twitter/bootstrap/bootstrap-carousel.js - 200 OK (5ms)
+
+
+Started GET "/assets/polls.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /polls.js - 200 OK (2ms)
+
+
+Started GET "/assets/application.js?body=1" for 127.0.0.1 at 2012-07-30 16:08:59 -0700
+Served asset /application.js - 200 OK (18ms)
